@@ -1,0 +1,1 @@
+# js-cc-008-check-triangle
